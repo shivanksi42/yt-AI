@@ -1,0 +1,4 @@
+tv/
+chroma_db/
+pycache/
+.env
